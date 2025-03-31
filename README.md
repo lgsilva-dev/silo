@@ -1,6 +1,6 @@
 # Silo Capacity Analysis and Forecast
 
-#### Contextualization
+#### Context:
 This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, over a five-year period, providing insights into silo capacity, filling trends, and depletion rates. It is particularly useful for optimizing soybean logistics, reducing costs, and improving supply chain efficiency.
 
 * Openai Generated Dataset
