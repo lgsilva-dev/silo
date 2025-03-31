@@ -1,9 +1,8 @@
 # Silo Capacity Analysis and Forecast
 
 #### Context:
-This project is a study on soybean storage in silo and is particularly useful for optimizing logistics, reducing costs, and improving supply chain efficiency.
 
-* Openai Generated Dataset
+This project focuses on analyzing soybean storage in silos to optimize logistics, reduce costs, and improve supply chain efficiency. The focus is on better understanding silo storage capacity and bringing up key factores that may help predict when refilling is needed, ensuring better inventory management and and mitigating potential risks.
 
   ![Image](https://github.com/lgsilva-dev/silo/blob/main/silo.jpg)
 
