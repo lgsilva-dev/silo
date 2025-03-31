@@ -5,7 +5,7 @@ This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, ov
 
 * Openai Generated Dataset
 
-  ![Image](https://raw.githubusercontent.com/lgsilva-dev/silo/main/silo.jpg)
+  ![Image](https://github.com/lgsilva-dev/silo/blob/main/silo.jpg)
 
 **Key Insights & Benefits**
 
