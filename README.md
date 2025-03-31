@@ -1,7 +1,7 @@
 # Silo Capacity Analysis and Forecast
 
 #### Context:
-This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, over a five-year period, providing insights into silo capacity, filling trends, and depletion rates. It is particularly useful for optimizing soybean logistics, reducing costs, and improving supply chain efficiency.
+This project is a study on soybean storage in silo and is particularly useful for optimizing logistics, reducing costs, and improving supply chain efficiency.
 
 * Openai Generated Dataset
 
@@ -23,4 +23,4 @@ This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, ov
 
 * What is the ideal time to schedule refilling operations for optimized logistics?
 
-**DISCLAIMER:** A synthetically generated dataset can be useful to learn about the problems and help to mitagate solutions, real data will diverge from this though. Real data collection wont be so consistent due to natural variations such as weather, transportation delays, operational inconsistencies and many others.
+**DISCLAIMER:** This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, over a five-year period, providing insights into silo capacity, filling trends, and depletion rates. A synthetically generated dataset can be useful to learn about the problems and help to mitagate solutions, real data will diverge from this though and won't be so consistent due to natural variations such as weather, transportation delays, operational inconsistencies and many others.
