@@ -23,4 +23,4 @@ This project is a study on soybean storage in silo and is particularly useful fo
 
 * What is the ideal time to schedule refilling operations for optimized logistics?
 
-**DISCLAIMER:** This dataset simulates soybean storage dynamics in Palotina, Paraná, Brazil, over a five-year period, providing insights into silo capacity, filling trends, and depletion rates. A synthetically generated dataset can be useful to learn about the problems and help to mitagate solutions, real data will diverge from this though and won't be so consistent due to natural variations such as weather, transportation delays, operational inconsistencies and many others.
+**DISCLAIMER:** The dataset used simulates soybean storage dynamics in Palotina, Paraná, Brazil, over a five-year period, providing insights into silo capacity, filling trends, and depletion rates. A synthetically generated dataset can be useful to learn about the problems and help to mitagate solutions, real data will diverge from this though and won't be so consistent due to natural variations such as weather, transportation delays, operational inconsistencies and many others.
